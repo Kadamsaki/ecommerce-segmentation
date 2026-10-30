@@ -1,0 +1,14 @@
+,value
+raw_rows,541909
+duplicates_removed,5268
+cancellations_set_aside,9251
+non_product_lines_removed,2361
+bad_qty_or_price_removed,2492
+sales_rows,522537
+return_rows,8668
+sales_rows_without_customer_id,131387
+table_dim_customer,4334
+table_dim_product,3798
+table_dim_date,374
+table_fact_sales,522537
+table_fact_returns,8668
